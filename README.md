@@ -1,6 +1,6 @@
-# \<eXolnet\>
+# Polymer Experiments
 
-Website for the eXolnet company.
+Experiments with Polymer web development.
 
 ## Install the Polymer-CLI
 

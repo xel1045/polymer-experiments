@@ -1,6 +1,6 @@
 {
-  "name": "exolnet",
-  "description": "Website for the eXolnet company.",
+  "name": "polymer-experiments",
+  "description": "Experiments with Polymer web development.",
   "main": "index.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
