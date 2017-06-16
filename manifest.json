@@ -1,0 +1,7 @@
+{
+  "name": "eXolnet",
+  "short_name": "eXolnet",
+  "description": "Website for the eXolnet company.",
+  "start_url": "/",
+  "display": "standalone"
+}
